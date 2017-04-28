@@ -1,0 +1,12 @@
+{
+  "name": "enlx/apidoc-template",
+  "description": "Templates for apidoc",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dmitry Zarva",
+      "email": "zarv1k@gmail.com"
+    }
+  ]
+}
